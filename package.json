@@ -1,0 +1,26 @@
+{
+  "name": "platzhalter-express",
+  "version": "1.0.0",
+  "description": "platzhalter server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/channel-hammer/platzhalter-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/channel-hammer/platzhalter-express/issues"
+  },
+  "homepage": "https://github.com/channel-hammer/platzhalter-express#readme",
+  "dependencies": {
+    "@types/express": "^4.17.11",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
+}
