@@ -5,16 +5,16 @@
       "module": "commonjs",
       "moduleResolution": "node",
       "outDir": "./build",
+      "esModuleInterop" : true,
       "emitDecoratorMetadata": true,
       "experimentalDecorators": true,
-      "sourceMap": true
+      "strict": true,
     },
-    "exclude" : [ 
-        "src/**/*"
-    ],
     "include" : [ 
-        "node_modules",
-        "**/*.spec.ts"
+        "src/**/*.ts"
+    ],
+    "exclude" : [ 
+        "node_modules"
     ]
   }
   
