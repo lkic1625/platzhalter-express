@@ -34,9 +34,8 @@
 
 ## 사용 기술 (예정)
 
-- express
 - elastic search
 - postgreSQL
-- typscript
+- golang
 - frontend framework(미정)
 
