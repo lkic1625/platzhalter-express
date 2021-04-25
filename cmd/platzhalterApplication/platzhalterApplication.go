@@ -7,6 +7,7 @@ import (
 )
 
 //This code is an example from https://github.com/gin-gonic/examples/blob/master/basic/main.go
+//PR test
 
 var db = make(map[string]string)
 
